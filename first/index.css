@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(184, 180, 180);
+    margin: 0;
+}
+
+.top-box, .bottom-box {
+    background: black;
+    height: 150px;
+}
+
+.middle-box, .bottom-box {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.middle-box {
+    background: white;
+    height: 600px;
+    
+}
+
+.bottom-box {
+    height: 100px;
+
+}
